@@ -12,6 +12,26 @@
 Change Log
 
 
+2022/02/28 #1 : 2022/03/01
+
+
+	win32/gdi/text.c
+		cache mechanism
+			OLD : crash
+			NEW : fixed
+
+	CatPad
+		Printer
+			OLD : crash
+			NEW : fixed
+
+
+----------==========----------==========----------==========----------
+
+
+Change Log
+
+
 2022/02/28
 
 
