@@ -12,6 +12,24 @@
 Change Log
 
 
+2022/02/28 #2 : 2022/03/02
+
+
+	win32/win_combobox.c
+		Vista/7 : Aero Glass is ON : Fluent UI is ON
+			OLD : hover effect is not applied
+			NEW : fixed
+		Classic Theme
+			OLD : draw error
+			NEW : fixed
+
+
+----------==========----------==========----------==========----------
+
+
+Change Log
+
+
 2022/02/28 #1 : 2022/03/01
 
 
@@ -55,7 +73,7 @@ NEW_FEATURE
 		released
 			NEW : sample of restoring position and size
 			[!] : currently no useful module available
-			[!] ; you need to implement manually
+			[!] : you need to implement manually
 
 	win32/win/set.c
 		.restore_*
