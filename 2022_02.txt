@@ -12,6 +12,37 @@
 Change Log
 
 
+2022/02/28 #4 : 2022/03/05
+
+
+BUGFIX
+
+
+	neutral/curico.c
+		n_curico_unpack()
+			OLD : broken
+			NEW : fixed
+
+	win32/win_txtbox.c
+		arrow keys : auto horizontal scroll
+			OLD : broken
+			NEW : fixed
+
+	Nonnon Paint
+		multi-icon unpack
+			OLD : broken
+			NEW : fixed
+		multi-icon unpack : when succeeded
+			OLD : cursor is not changed
+			NEW : fixed
+
+
+----------==========----------==========----------==========----------
+
+
+Change Log
+
+
 2022/02/28 #3 : 2022/03/03
 
 
