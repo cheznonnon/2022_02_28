@@ -12,6 +12,29 @@
 Change Log
 
 
+2022/02/28 #5 : 2022/03/07
+
+
+BUGFIX
+
+
+	win32/win_txtbox.c
+		auto-horizontal scroll
+			OLD : there were some bugs
+			NEW : fixed
+
+	Neko no Te
+		input popup : right/middle mouse button is clicked
+			OLD : appeared in bad ways
+			NEW : fixed
+
+
+----------==========----------==========----------==========----------
+
+
+Change Log
+
+
 2022/02/28 #4 : 2022/03/05
 
 
