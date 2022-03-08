@@ -12,6 +12,24 @@
 Change Log
 
 
+2022/02/28 #6 : 2022/03/08
+
+
+BUGFIX
+
+
+	win32/win_scrollbar.c
+		press effect
+			OLD : not applied in some cases
+			NEW : fixed
+
+
+----------==========----------==========----------==========----------
+
+
+Change Log
+
+
 2022/02/28 #5 : 2022/03/07
 
 
