@@ -12,6 +12,25 @@
 Change Log
 
 
+2022/02/28 #7 : 2022/03/10
+
+
+BUGFIX
+
+
+	win32/win_inputpopup.c
+		basic behavior
+			OLD : broken
+			NEW : fixed
+			[x] : BUGFIX @ 2022/03/07
+
+
+----------==========----------==========----------==========----------
+
+
+Change Log
+
+
 2022/02/28 #6 : 2022/03/08
 
 
